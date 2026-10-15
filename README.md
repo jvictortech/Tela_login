@@ -58,13 +58,4 @@ Entrada → início → cadastro ou busca do animal → detalhes → solicitaç�
 - API completa;
 - Sistema pronto para produção.
 
-## Preparação para a próxima aula
-
-Cada grupo deverá informar:
-
-- qual formulário será conectado primeiro ao back-end;
-- quais dados serão enviados;
-- qual resposta o servidor deverá retornar;
-- como o grupo pretende utilizar Python com Flask.
-
 > Importante: o código-base é um ponto de partida. Cada grupo deverá adaptá-lo ao próprio projeto e compreender as alterações realizadas.
