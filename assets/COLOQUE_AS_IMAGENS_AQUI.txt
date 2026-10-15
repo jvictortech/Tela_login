@@ -1,0 +1,6 @@
+Coloque nesta pasta logotipos, ícones e imagens utilizados pelo projeto.
+
+Use nomes simples, sem espaços ou acentos. Exemplos:
+- logo.png
+- icone-saude.svg
+- foto-pet.jpg

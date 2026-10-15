@@ -1,0 +1,10 @@
+Crie nesta pasta as demais telas do projeto.
+
+Sugestões de nomes:
+- cadastro.html
+- inicio.html
+- formulario.html
+- detalhes.html
+- confirmacao.html
+
+Use links relativos para conectar as páginas ao fluxo principal.
