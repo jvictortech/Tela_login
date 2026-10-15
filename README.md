@@ -1,4 +1,4 @@
-# Modelo de Front-end — Experiência Aplicada em Desenvolvimento Web
+# Modelo de Front-end - Experiência Aplicada em Desenvolvimento Web
 
 Base inicial para os projetos das áreas de **saúde**, **saneamento** e **pets**.
 
